@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "872329366409",
+    "project_id": "neckline-7373c",
+    "storage_bucket": "neckline-7373c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872329366409:android:a155e4b289ca039ff62f58",
+        "android_client_info": {
+          "package_name": "com.example.NeckLine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872329366409-iuhrlulmj3rim98u7i2hafoda15ugh5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.NeckLine",
+            "certificate_hash": "8481498d744f894a6dbe670ac530e382491ef038"
+          }
+        },
+        {
+          "client_id": "872329366409-v0g6ei2dqfrkgvf4uhcovg9l689kdtch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIpS7ap-oT70_sBHLV-m0BDSlMH7XuNls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872329366409-v0g6ei2dqfrkgvf4uhcovg9l689kdtch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
